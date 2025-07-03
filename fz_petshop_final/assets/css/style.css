@@ -1,0 +1,58 @@
+/* GENERAL STYLING */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #330000;
+    color: #ffc0cb;
+    margin: 0;
+    padding: 0;
+    
+}
+.navbar {
+    background-color: #660000;
+}
+.navbar a {
+    color: #ffc0cb !important;
+}
+.navbar a:hover {
+    color: #ffffff !important;
+}
+.container {
+    padding: 20px;
+}
+.table-dark {
+    background-color: #440000;
+}
+.table-dark th, .table-dark td {
+    border: 1px solid #660000;
+}
+.btn-success {
+    background-color: #990000;
+    color: #fff;
+}
+.btn-success:hover {
+    background-color: #cc0000;
+}
+.btn-warning {
+    background-color: #ff6600;
+    color: #fff;
+}
+.btn-danger {
+    background-color: #660000;
+    color: #fff;
+}
+h2 {
+    color: #ff99aa;
+}
+form {
+    background-color: #660000;
+    padding: 15px;
+    border-radius: 8px;
+}
+label {
+    color: #ffc0cb;
+}
+input, select, textarea {
+    background-color: #330000;
+    color: #fff;
+    border: 1px solid #660000;
+}
